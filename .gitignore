@@ -1,0 +1,5 @@
+#hello
+/scala-program/.bsp/
+/scala-program/.idea/
+/scala-program/project/*
+/scala-program/target/*
